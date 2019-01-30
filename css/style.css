@@ -1,0 +1,10 @@
+.navbar-light .navbar-brand { color: rgba(255, 29, 133, 0.9); }
+.bg-light { background-color: #f9c7cc52!important; }
+.w-100 { width: 100%!important; height: 580px; }
+.btn-outline-success { color: rgba(255, 29, 133, 0.9);border-color: rgba(255, 29, 133, 0.9); }
+.btn-outline-success:hover { color: rgba(255, 29, 133, 0.9);background-color: #f9c7cc52;
+border-color: rgba(255, 29, 133, 0.9); }
+.form-control { border: 1px solid rgba(255, 29, 133, 0.9);background-color: #ffeded; }
+.container {max-width: 1279px;}
+.card-deck { margin-left :454px;width: 64%;}
+.card-img-top { height: 266px; }
